@@ -1,1 +1,2 @@
-# ai-project
+# Shakespeare AI Text Generator
+Recurring Neural Network
